@@ -1,0 +1,22 @@
+{
+  "name": "rector-seal-push-plugin",
+  "version": "1.0.0",
+  "description": "Icon plugin",
+  "main": "IconPlugin.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triplebg/rector-seal-push-plugin.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "TripleBG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triplebg/rector-seal-push-plugin/issues"
+  },
+  "homepage": "https://github.com/Triplebg/rector-seal-push-plugin#readme"
+}
